@@ -336,6 +336,7 @@ Working through Lecture 2 showed me how much structure GA4 data really has. CTEs
 
 # Appendix
 
-- **GitHub Pages (published report):** [PASTE YOUR GITHUB PAGES URL HERE](https://rubencgarcia.github.io/YOUR-REPO-NAME/)
-- **GitHub Repository:** [PASTE YOUR REPO URL HERE](https://github.com/rubencgarcia/YOUR-REPO-NAME)
-- **SQL file:** [Garcia-Ruben-lecture2-ga4.sql](Garcia-Ruben-lecture2-ga4.sql)
+# Appendix
+
+- **GitHub Pages (published report):** [https://rubencgarcia.github.io/IC-CP-W05-BigQuery-SQL-Lecture-2/](https://rubencgarcia.github.io/IC-CP-W05-BigQuery-SQL-Lecture-2/)
+- **GitHub Repository:** [https://github.com/rubencgarcia/IC-CP-W05-BigQuery-SQL-Lecture-2](https://github.com/rubencgarcia/IC-CP-W05-BigQuery-SQL-Lecture-2) [Garcia-Ruben-lecture2-ga4.sql](Garcia-Ruben-lecture2-ga4.sql)
